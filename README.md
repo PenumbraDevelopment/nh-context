@@ -1,3 +1,5 @@
+# new home of nerohiro's nh-context. contains a bug fix and QoL improvement preventing multiple menus from opening.
+
 # nh-context
 Simple, minimalistic event firing context menu
 
